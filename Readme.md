@@ -15,9 +15,9 @@
 - HTML
 - CSS
 
-## [Макет в Figma] (https://www.figma.com/file/NYfnJOdop70AyaAoEg9iBH/%231-С-чистого-листа-(Copy)?type=design&node-id=0-1&mode=design&t=h3gdnm9tVOIdfOfK-0)
+## [Макет в Figma](https://www.figma.com/file/NYfnJOdop70AyaAoEg9iBH/%231-С-чистого-листа-(Copy)?type=design&node-id=0-1&mode=design&t=h3gdnm9tVOIdfOfK-0)
 
-## [Демо] ()
+## [Демо](https://tsinik2508.github.io/s-chistogo-lista/)
 
 # En
 
@@ -36,6 +36,6 @@ The following technologies were used to create this project:
 - HTML
 - CSS
 
-## [Figma Layout] (https://www.figma.com/file/NYfnJOdop70AyaAoEg9iBH/%231-С-чистого-листа-(Copy)?type=design&node-id=0-1&mode=design&t=h3gdnm9tVOIdfOfK-0)
+## [Figma Layout](https://www.figma.com/file/NYfnJOdop70AyaAoEg9iBH/%231-С-чистого-листа-(Copy)?type=design&node-id=0-1&mode=design&t=h3gdnm9tVOIdfOfK-0)
 
-## [Demo] ()
+## [Demo](https://tsinik2508.github.io/s-chistogo-lista/)
